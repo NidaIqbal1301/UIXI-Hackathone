@@ -108,7 +108,7 @@ const Footer = () => {
           </svg>
         </a>
       </span>
-      <img src="/images/social Links.png" alt="" />
+      
       </div>
     </div>
   );
